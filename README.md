@@ -82,12 +82,34 @@ User Upload → Tesseract.js (OCR) → Gemini AI (Analysis) → Supabase (Storag
 
 1. Landing page
 
+
 <img width="1470" height="839" alt="Screenshot 2025-11-04 at 1 22 54 PM" src="https://github.com/user-attachments/assets/78cc8b30-66ef-4cb2-9b8f-c87b98149b69" />
+
  
 2. Upload interface
-4. Analysis results
-5. Dashboard
-6. History page
+
+
+<img width="1470" height="839" alt="Screenshot 2025-11-04 at 1 25 13 PM" src="https://github.com/user-attachments/assets/bc595fea-762a-4d57-bd1e-439050b5386a" />
+
+
+3. Analysis results
+
+
+<img width="1470" height="839" alt="Screenshot 2025-11-04 at 1 27 09 PM" src="https://github.com/user-attachments/assets/cad24220-873f-49b5-a6ba-7f66ac9cb2a7" />
+
+
+4. Dashboard
+
+
+<img width="1470" height="839" alt="Screenshot 2025-11-04 at 1 27 40 PM" src="https://github.com/user-attachments/assets/9cb2779b-a1c9-4e22-892f-2f625578e986" />
+
+
+5. History page
+
+
+<img width="1470" height="839" alt="Screenshot 2025-11-04 at 1 28 11 PM" src="https://github.com/user-attachments/assets/2f71966a-5c96-4ffb-8133-58a332f8b96a" />
+
+
 
  🎓 Why This Project?
 
