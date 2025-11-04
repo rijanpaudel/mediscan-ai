@@ -41,7 +41,7 @@ Demo Credentials
 
  AI & OCR
 - Tesseract.js - Client-side OCR (no API costs!)
-- Grok API - AI analysis 
+- Gemini API - AI analysis 
 
  Deployment
 - Vercel - Zero-config deployment
